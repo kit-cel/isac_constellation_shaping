@@ -11,8 +11,9 @@
 % The implementation corresponds to Eqs. (23)–(32) in:
 % [1] B. Geiger, F. Liu, S. Lu, A. Rode, D. Gil Gaviria, C. Muth, and
 %     L. Schmalen, "Constellation shaping for OFDM-ISAC systems: From
-%     theoretical bounds to practical implementation",
-%     submitted to IEEE Transactions on Communications, 2025.
+%     theoretical bounds to practical implementation", IEEE Transactions
+%     on Communications, vol. 74, pp. 6025–6042, Mar. 2026.
+%     DOI: 10.1109/TCOMM.2026.3669491
 %     Available at: https://arxiv.org/abs/2509.04055
 %
 % License: MIT (see LICENSE in repository root)
